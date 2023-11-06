@@ -10,7 +10,7 @@ lines is essential for the safety and stability of power systems... For more det
 Use `git clone https://github.com/ultralytics/yolov5/tree/v5.0`
 to clone the project,the code modification is based on yolov5x,
 the [dataset](https://pan.baidu.com/s/1Cb2DQuI2l-ilpC7Y1n5ztw?pwd=1234) concluded train set and test set 
-and the`pre-training weight`is in the direction `/liar_yolov5x/weight`
+and the [pre-training weight](https://pan.baidu.com/s/1CHCU8Saa_cHRc6SjfBZ8aw?pwd=1234)is in the direction `weight`.
 For training of other models, please refer to [mmdetection](https://github.com/open-mmlab/mmdetection).
 We have uploaded all the information related to the project to the folder.
 
